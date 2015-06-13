@@ -1,2 +1,3 @@
 # hello-world
 My first repository!
+This is the bit where I am trying to write a COMMIT message, however I really have no idea what is going on...
